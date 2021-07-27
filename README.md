@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @motistait
+- 👋 Hi, I’m @tatendalawrencemotsi
 - 👀 I’m interested in .Website an Web Application Development
 - 🌱 I’m currently learning JavaScript, Codeigniter and ASP.NET MVC
 - 💞️ I’m looking to collaborate on WordPress, Codeigniter
